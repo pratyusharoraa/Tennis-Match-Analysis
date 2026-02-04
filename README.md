@@ -20,8 +20,7 @@ The final output video includes:
 - Speed of players  
 
 📸 *Example output frame:*  
-<img width="960" height="543" alt="{A323273A-7214-4C8D-8F58-191B90BD58ED}" src="https://github.com/user-attachments/assets/5a90ce80-e5a5-4a58-a836-cec4c4054ed8" />
-
+<img width="960" height="544" alt="{260F99C7-F838-4F88-BD40-0D6C88852EE0}" src="https://github.com/user-attachments/assets/fd397c50-8f71-4d1c-b34d-4230a6de52b4" />
 
 ---
 
