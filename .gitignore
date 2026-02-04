@@ -9,6 +9,9 @@ __pycache__/
 venv/
 .env/
 
-# OS files
+# OS junk
 .DS_Store
 Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
